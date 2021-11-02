@@ -11,9 +11,9 @@ The predict notebook can be run without the hardware acceleration.
 #Usage
 The project contains three notebooks, a series of datasets and pretrained model weights. 
 
-For basic usage open the ![Crystal_Predict](https://colab.research.google.com/github/adrianwalsh1990/crystal_structure_prediction/blob/main/Crystal_Predict.ipynb\) notebook. Enter the atomic positions and crystal system. The Bravais lattice and point group symmetries will then be predicted. 
+For basic usage open the ![Crystal_Predict](https://colab.research.google.com/github/adrianwalsh1990/crystal_structure_prediction/blob/main/Crystal_Predict.ipynb) notebook. Enter the atomic positions and crystal system. The Bravais lattice and point group symmetries will then be predicted. 
 
-The models can be retrained with the ![Pointgroup_train](https://colab.research.google.com/github/adrianwalsh1990/crystal_structure_prediction/blob/main/PointGroup_train.ipynb\) and ![Bravais_train](https://colab.research.google.com/github/adrianwalsh1990/crystal_structure_prediction/blob/main/Bravis_train.ipynb\). The datasets for these models are downloaded from ![Materials Project](materialsproject.org).
+The models can be retrained with the ![Pointgroup_train](https://colab.research.google.com/github/adrianwalsh1990/crystal_structure_prediction/blob/main/PointGroup_train.ipynb) and ![Bravais_train](https://colab.research.google.com/github/adrianwalsh1990/crystal_structure_prediction/blob/main/Bravis_train.ipynb). The datasets for these models are downloaded from ![Materials Project](materialsproject.org).
 
 
 # Networks 
